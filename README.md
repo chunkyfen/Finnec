@@ -1,0 +1,2 @@
+# Finnec
+Finance organisation app
